@@ -1,0 +1,28 @@
+Python 2.5.2 Stackless 3.1b3 060516 (release25-maint:5569, Jun 15 2008, 16:13:33)
+[GCC 4.2.3 (Ubuntu 4.2.3-2ubuntu7)] on linux2
+
+/usr/local/bin/python
+
+sudo su
+cd /usr/local/bin
+ln -s python stackless-python
+
+stackless-python from any prompt starts /usr/local/bin/python (stackless python 2.5.2)
+
+===================================================================================
+
+Python 2.5.2 (r252:60911, Apr 21 2008, 11:17:30)
+[GCC 4.2.3 (Ubuntu 4.2.3-2ubuntu7)] on linux2
+
+/usr/bin/python2.5
+
+===================================================================================
+
+ActivePython 2.5.2.2 (ActiveState Software Inc.) based on
+Python 2.5.2 (r252:60911, Mar 27 2008, 17:50:13)
+[GCC 3.3.4 (pre 3.3.5 20040809)] on linux2
+
+/opt/ActivePython-2.5/bin/python
+
+===================================================================================
+
